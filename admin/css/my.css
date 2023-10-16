@@ -1,0 +1,13 @@
+            /* #card-history {
+    color: red;
+} */
+            
+            @page {
+                size: A4;
+                margin: 0;
+            }
+            
+            #footer {
+                display: none;
+                visibility: none;
+            }
